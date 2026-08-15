@@ -20,7 +20,8 @@ key business insights using Python, SQL, and Power BI.
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Uploading retail-sales-dashboard.png…]()
+
 
 ---
 
